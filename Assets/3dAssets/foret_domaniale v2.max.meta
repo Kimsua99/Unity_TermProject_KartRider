@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 5e020eedbc507494db2664e5964cb9c5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: branchettes
+    100002: buches
+    100004: buches_MeshPart0
+    100006: buches_MeshPart1
+    100008: copeaux
+    100010: //RootNode
+    100012: grandes_branches
+    100014: grosse_buche
+    100016: grosse_buche_veine
+    100018: hache_lame
+    100020: hache_manche
+    100022: hache_vis 01
+    100024: hache_vis 02
+    100026: hache_vis 03
+    100028: hache_vis 04
+    100030: panneau_ONF_foret01
+    100032: panneau_ONF_foret02
+    100034: panneau_ONF_foret_poteau01
+    100036: panneau_ONF_foret_poteau02
+    100038: panneau_ONF_foret_text
+    100040: panneau_ONF_oiseaux
+    100042: panneau_ONF_poteau02
+    100044: panneau_ONF_poteau03
+    100046: panneau_orient_base
+    100048: panneau_orient_cadre
+    100050: panneau_orient_info
+    100052: panneau_orient_tronc
+    100054: panneau_orient_vis01
+    100056: panneau_orient_vis02
+    100058: panneau_orient_vis03
+    100060: panneau_orient_vis04
+    100062: panneau_orient_vis05
+    100064: panneau_orient_vis06
+    100066: panneau_orient_vis07
+    100068: panneau_orient_vis08
+    100070: petites_branches
+    100072: Text02
+    400000: branchettes
+    400002: buches
+    400004: buches_MeshPart0
+    400006: buches_MeshPart1
+    400008: copeaux
+    400010: //RootNode
+    400012: grandes_branches
+    400014: grosse_buche
+    400016: grosse_buche_veine
+    400018: hache_lame
+    400020: hache_manche
+    400022: hache_vis 01
+    400024: hache_vis 02
+    400026: hache_vis 03
+    400028: hache_vis 04
+    400030: panneau_ONF_foret01
+    400032: panneau_ONF_foret02
+    400034: panneau_ONF_foret_poteau01
+    400036: panneau_ONF_foret_poteau02
+    400038: panneau_ONF_foret_text
+    400040: panneau_ONF_oiseaux
+    400042: panneau_ONF_poteau02
+    400044: panneau_ONF_poteau03
+    400046: panneau_orient_base
+    400048: panneau_orient_cadre
+    400050: panneau_orient_info
+    400052: panneau_orient_tronc
+    400054: panneau_orient_vis01
+    400056: panneau_orient_vis02
+    400058: panneau_orient_vis03
+    400060: panneau_orient_vis04
+    400062: panneau_orient_vis05
+    400064: panneau_orient_vis06
+    400066: panneau_orient_vis07
+    400068: panneau_orient_vis08
+    400070: petites_branches
+    400072: Text02
+    2300000: branchettes
+    2300002: buches_MeshPart0
+    2300004: buches_MeshPart1
+    2300006: copeaux
+    2300008: grandes_branches
+    2300010: grosse_buche
+    2300012: grosse_buche_veine
+    2300014: hache_lame
+    2300016: hache_manche
+    2300018: hache_vis 01
+    2300020: hache_vis 02
+    2300022: hache_vis 03
+    2300024: hache_vis 04
+    2300026: panneau_ONF_foret01
+    2300028: panneau_ONF_foret02
+    2300030: panneau_ONF_foret_poteau01
+    2300032: panneau_ONF_foret_poteau02
+    2300034: panneau_ONF_foret_text
+    2300036: panneau_ONF_oiseaux
+    2300038: panneau_ONF_poteau02
+    2300040: panneau_ONF_poteau03
+    2300042: panneau_orient_base
+    2300044: panneau_orient_cadre
+    2300046: panneau_orient_info
+    2300048: panneau_orient_tronc
+    2300050: panneau_orient_vis01
+    2300052: panneau_orient_vis02
+    2300054: panneau_orient_vis03
+    2300056: panneau_orient_vis04
+    2300058: panneau_orient_vis05
+    2300060: panneau_orient_vis06
+    2300062: panneau_orient_vis07
+    2300064: panneau_orient_vis08
+    2300066: petites_branches
+    2300068: Text02
+    3300000: branchettes
+    3300002: buches_MeshPart0
+    3300004: buches_MeshPart1
+    3300006: copeaux
+    3300008: grandes_branches
+    3300010: grosse_buche
+    3300012: grosse_buche_veine
+    3300014: hache_lame
+    3300016: hache_manche
+    3300018: hache_vis 01
+    3300020: hache_vis 02
+    3300022: hache_vis 03
+    3300024: hache_vis 04
+    3300026: panneau_ONF_foret01
+    3300028: panneau_ONF_foret02
+    3300030: panneau_ONF_foret_poteau01
+    3300032: panneau_ONF_foret_poteau02
+    3300034: panneau_ONF_foret_text
+    3300036: panneau_ONF_oiseaux
+    3300038: panneau_ONF_poteau02
+    3300040: panneau_ONF_poteau03
+    3300042: panneau_orient_base
+    3300044: panneau_orient_cadre
+    3300046: panneau_orient_info
+    3300048: panneau_orient_tronc
+    3300050: panneau_orient_vis01
+    3300052: panneau_orient_vis02
+    3300054: panneau_orient_vis03
+    3300056: panneau_orient_vis04
+    3300058: panneau_orient_vis05
+    3300060: panneau_orient_vis06
+    3300062: panneau_orient_vis07
+    3300064: panneau_orient_vis08
+    3300066: petites_branches
+    3300068: Text02
+    4300000: buches_MeshPart0
+    4300002: buches_MeshPart1
+    4300004: grosse_buche
+    4300006: grosse_buche_veine
+    4300008: hache_lame
+    4300010: hache_manche
+    4300012: hache_vis 01
+    4300014: hache_vis 02
+    4300016: hache_vis 03
+    4300018: hache_vis 04
+    4300020: petites_branches
+    4300022: grandes_branches
+    4300024: copeaux
+    4300026: branchettes
+    4300028: panneau_ONF_oiseaux
+    4300030: panneau_ONF_poteau03
+    4300032: panneau_ONF_poteau02
+    4300034: panneau_ONF_foret02
+    4300036: panneau_ONF_foret_text
+    4300038: Text02
+    4300040: panneau_ONF_foret01
+    4300042: panneau_ONF_foret_poteau02
+    4300044: panneau_ONF_foret_poteau01
+    4300046: panneau_orient_base
+    4300048: panneau_orient_tronc
+    4300050: panneau_orient_cadre
+    4300052: panneau_orient_vis01
+    4300054: panneau_orient_vis02
+    4300056: panneau_orient_vis03
+    4300058: panneau_orient_vis04
+    4300060: panneau_orient_vis05
+    4300062: panneau_orient_vis06
+    4300064: panneau_orient_vis07
+    4300066: panneau_orient_vis08
+    4300068: panneau_orient_info
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

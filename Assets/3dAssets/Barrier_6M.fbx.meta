@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 774ca16544573c5409e5958cad674f11
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beam
+    100004: Beam bracket
+    100006: Beam plugs
+    100008: Beam screws
+    100010: Bearing bolts
+    100012: Cylinder
+    100014: Safety stickers
+    100016: Shaft
+    400000: //RootNode
+    400002: Beam
+    400004: Beam bracket
+    400006: Beam plugs
+    400008: Beam screws
+    400010: Bearing bolts
+    400012: Cylinder
+    400014: Safety stickers
+    400016: Shaft
+    2300000: //RootNode
+    2300002: Beam
+    2300004: Beam bracket
+    2300006: Beam plugs
+    2300008: Beam screws
+    2300010: Bearing bolts
+    2300012: Cylinder
+    2300014: Safety stickers
+    2300016: Shaft
+    3300000: //RootNode
+    3300002: Beam
+    3300004: Beam bracket
+    3300006: Beam plugs
+    3300008: Beam screws
+    3300010: Bearing bolts
+    3300012: Cylinder
+    3300014: Safety stickers
+    3300016: Shaft
+    4300000: Post
+    4300002: Beam bracket
+    4300004: Beam screws
+    4300006: Beam
+    4300008: Safety stickers
+    4300010: Beam plugs
+    4300012: Bearing bolts
+    4300014: Shaft
+    4300016: Cylinder
+    7400000: Beam bracket|Beam bracketAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
